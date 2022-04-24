@@ -80,8 +80,17 @@ These analyses were largely unchanged.
 
 Thomas High School remained in these brackets, regardless of the changes we made to the test scores: $631-645 in spending per student, Medium-sized school, and Charter-type school.
 
-##### Spending 
-spending_summary.png
+
+##### Spending Summary
+![spending_summary](Resources/school_analysis_df_screenshots/spending_summary.png)
+
+##### School Size Summary
+![school_size_summary](Resources/school_analysis_df_screenshots/school_size_summary.png)
+
+
+##### School Type Summary
+![school_type_summary](Resources/school_analysis_df_screenshots/school_type_summary.png)
+
 
 
 ## Summary
