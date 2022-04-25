@@ -27,7 +27,7 @@ The change between District Summaries are as follows:
 * % Passing Reading: -0.12%
 * % Overall Passing: -0.46%
 
-Excluding a single high school's ninth-grade class amounted to nearly a half-percent change in the overall percentage of passing students **_district-wide_** could have significant implications for funding. 
+Excluding a single high school's ninth-grade class amounted to nearly a half-percent change in the overall passing rate of students **_district-wide_**; this could have significant implications for funding. 
 
 See screenshots below. 
 
